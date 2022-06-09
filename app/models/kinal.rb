@@ -1,0 +1,2 @@
+class Kinal < ApplicationRecord
+end
